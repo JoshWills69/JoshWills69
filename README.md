@@ -1,9 +1,7 @@
-- 👋 Hi! I’m Josh, transitioning from the Medical field to Information Technology with a focus on Cybersecurity. I got a couple of relevant certifications and currently working on more challenging ones. I enjoy engaging in practical technical scenarios and publications to enhance my skills, gain exposure, and assist fellow learners.
+A cybersecurity and cloud security engineer at heart, passionate about building hands-on systems, lab environments, and open-source tools 🖥️🔒🚀
 
-- 👀 I'm interested in contributing to the development of a secured cyber world
-
-- 🌱 I’m currently learning more on Python.
-- 💞️ I’m looking to collaborate on Cyber Analytical roles.
+I’m a lifelong learner who loves exploring virtualization, IAM, and distributed systems.
+I love breaking things, figuring out how they work, and documenting the process so others can learn too. My projects reflect curiosity, precision, and a drive to make technology more accessible and understandable.
 
 - 📫 How to reach me; linkedin.com/in/joshua-ojowilliams
 
