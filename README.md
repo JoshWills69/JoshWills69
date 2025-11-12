@@ -28,7 +28,7 @@
 
 ### 🧪 Labs
 
-- **[My Notion Page](https://bustling-shrew-8ee.notion.site/Welcome-to-My-Portfolio-a9632b96d5e04285bfbea1e9d34ba64c?pvs=74)** - Links of my labs on Notion.
+- **[My Notion Page](https://bustling-shrew-8ee.notion.site/Welcome-to-My-Portfolio-a9632b96d5e04285bfbea1e9d34ba64c?pvs=74)** - Link to my other labs on Notion.
 
 <!---
 JoshWills69/JoshWills69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
